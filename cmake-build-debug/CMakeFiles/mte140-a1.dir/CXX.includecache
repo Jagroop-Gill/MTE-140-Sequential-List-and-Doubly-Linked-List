@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/JUPI/CLionProjects/mte140-1211-a1-j55gill/sequential-list.cpp
+sequential-list.h
+C:/Users/JUPI/CLionProjects/mte140-1211-a1-j55gill/sequential-list.h
+iostream
+-
+
+C:/Users/JUPI/CLionProjects/mte140-1211-a1-j55gill/sequential-list.h
+

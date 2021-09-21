@@ -1,0 +1,3 @@
+C:/Users/JUPI/CLionProjects/mte140-1211-a1-j55gill/cmake-build-debug/CMakeFiles/mte140-a1.dir
+C:/Users/JUPI/CLionProjects/mte140-1211-a1-j55gill/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JUPI/CLionProjects/mte140-1211-a1-j55gill/cmake-build-debug/CMakeFiles/rebuild_cache.dir
